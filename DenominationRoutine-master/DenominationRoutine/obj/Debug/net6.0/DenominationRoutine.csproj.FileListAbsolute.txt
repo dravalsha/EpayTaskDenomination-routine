@@ -1,0 +1,15 @@
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\bin\Debug\net6.0\DenominationRoutine.exe
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\bin\Debug\net6.0\DenominationRoutine.deps.json
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\bin\Debug\net6.0\DenominationRoutine.runtimeconfig.json
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\bin\Debug\net6.0\DenominationRoutine.dll
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\bin\Debug\net6.0\DenominationRoutine.pdb
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.csproj.AssemblyReference.cache
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.AssemblyInfoInputs.cache
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.AssemblyInfo.cs
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.dll
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\refint\DenominationRoutine.dll
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.pdb
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\DenominationRoutine.genruntimeconfig.cache
+C:\Users\sagar\Downloads\DenominationRoutine-master (1)\DenominationRoutine-master\DenominationRoutine\obj\Debug\net6.0\ref\DenominationRoutine.dll
